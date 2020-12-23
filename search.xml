@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试页面</title>
+      <link href="blog/test/"/>
+      <url>blog/test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是一个测试页面"><a href="#这是一个测试页面" class="headerlink" title="这是一个测试页面"></a>这是一个测试页面</h1><p><strong>如果你看到了本页面，代表你的博客已经成功正常运行</strong></p><p>更多配置可以参阅官方文档：</p><p><a href="https://butterfly.js.org/posts/dc584b87/">https://butterfly.js.org/posts/dc584b87/</a></p><hr><p><img src="/media/avatar.jpg" alt=""></p><p>或者等我更新:<a href="https://guguge.top">https://guguge.top</a>  （咕咕咕~）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
